@@ -1,0 +1,33 @@
+src/utils/base64.o: \
+ /Users/kaanari/esp/esp-idf/components/wpa_supplicant/src/utils/base64.c \
+ /Users/kaanari/esp/esp-idf/components/wpa_supplicant/src/utils/includes.h \
+ /Users/kaanari/esp/esp-idf/components/wpa_supplicant/port/include/supplicant_opt.h \
+ /Users/kaanari/Desktop/esp-homekit-demo/examples/esp32/irrigation/build/include/sdkconfig.h \
+ /Users/kaanari/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
+ /Users/kaanari/esp/esp-idf/components/wpa_supplicant/port/include/os.h \
+ /Users/kaanari/esp/esp-idf/components/esp_common/include/esp_types.h \
+ /Users/kaanari/esp/esp-idf/components/esp_common/include/esp_err.h \
+ /Users/kaanari/esp/esp-idf/components/newlib/platform_include/assert.h \
+ /Users/kaanari/esp/esp-idf/components/esp_common/include/esp_compiler.h \
+ /Users/kaanari/esp/esp-idf/components/wpa_supplicant/src/utils/base64.h
+
+/Users/kaanari/esp/esp-idf/components/wpa_supplicant/src/utils/includes.h:
+
+/Users/kaanari/esp/esp-idf/components/wpa_supplicant/port/include/supplicant_opt.h:
+
+/Users/kaanari/Desktop/esp-homekit-demo/examples/esp32/irrigation/build/include/sdkconfig.h:
+
+/Users/kaanari/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
+
+/Users/kaanari/esp/esp-idf/components/wpa_supplicant/port/include/os.h:
+
+/Users/kaanari/esp/esp-idf/components/esp_common/include/esp_types.h:
+
+/Users/kaanari/esp/esp-idf/components/esp_common/include/esp_err.h:
+
+/Users/kaanari/esp/esp-idf/components/newlib/platform_include/assert.h:
+
+/Users/kaanari/esp/esp-idf/components/esp_common/include/esp_compiler.h:
+
+/Users/kaanari/esp/esp-idf/components/wpa_supplicant/src/utils/base64.h:
+/Users/kaanari/esp/esp-idf/components/wpa_supplicant/src/utils/base64.c:
