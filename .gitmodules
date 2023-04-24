@@ -1,0 +1,3 @@
+[submodule "examples/esp-homekit-demo"]
+	path = examples/esp-homekit-demo
+	url = https://github.com/maximkulkin/esp-homekit-demo
